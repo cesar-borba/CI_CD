@@ -1,8 +1,8 @@
-# CI_CD (Continuous Integration/Continuous Deployment)
+# CI_CD (Continuous Integration/Continuous Delivery)
 
 <hr>
 <p>Exercício da matéria de Engenharia de Software III, do professor Claudio Souza Nunes, realizada dia 12/03/2024.
-O objetivo do exercício era utilizar um repositório público para simular processos CI/CD, Integração e Entrega Contínua (em inglês, Continuous Integration/Continuous Deployment) e a realização de commits de outros "colaboradores" (no nosso caso, estudantes).
+O objetivo do exercício era utilizar um repositório público para simular processos CI/CD, Integração e Entrega Contínua (em inglês, Continuous Integration/Continuous Delivery) e a realização de commits de outros "colaboradores" (no nosso caso, estudantes).
 Este repositório público possui duas branches, uma principal (<em>main</em>) e outra para desenvolvimento (<em>develop</em>).</p>
 <p>Além disso, os arquivos da branch principal estão conectados a um serviço de computação em nuvem do Azure, o Static Web App, disponibilizado pela licença da Microsoft
 para estudantes. Desta forma, processos como: <strong>commit/push</strong>, <strong>pull request</strong> e <strong>merge</strong> foram estudados a aplicados.</p>
